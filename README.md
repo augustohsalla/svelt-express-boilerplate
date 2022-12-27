@@ -1,3 +1,6 @@
+DISCLAIMER: THIS IS A PROJECT USED FOR LEARNING PURPOSE, STILL UNDER PROGRESS
+
+
 # svelt-express-boilerplate
 This repo contains a lil bit of the code iv used to start studying svelt with another stacks.
 
