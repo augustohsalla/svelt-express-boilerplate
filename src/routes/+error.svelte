@@ -1,10 +1,10 @@
 <script context="module" lang="ts">
 	import type { Load } from '@sveltejs/kit'
 
-	export const load: Load = ({ error, status }) => {
+	export const load: Load = () => {
 		return {
 			props: {
-				title: `${status}: ${error.message}`,
+				title: `Error occured.`,
 			},
 		}
 	}
